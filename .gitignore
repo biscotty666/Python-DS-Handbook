@@ -1,0 +1,5 @@
+src/
+nohup.out
+.ipynb_checkpoints/
+.direnv/
+.envrc
