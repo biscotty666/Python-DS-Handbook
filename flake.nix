@@ -26,10 +26,11 @@
             seaborn
             plotly
             vega-datasets
+            openpyxl
           ]))
         ];
         shellHook = ''
-            export BROWSER=firefox
+            export BROWSER=floorp
             #jupyter lab
         '';
       };
