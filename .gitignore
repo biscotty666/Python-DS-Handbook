@@ -3,3 +3,4 @@ nohup.out
 .ipynb_checkpoints/
 .direnv/
 .envrc
+docs/data/recipeitems.json
